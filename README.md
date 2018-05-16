@@ -4,9 +4,13 @@ Using pymarc, this scores the quality of MARC records and returns the score alon
 
 The program also removes:
 -Records reported for deletion
+
 -Non-English language cataloging
+
 -Encoding level 3
+
 -Records where the first date begins with "0"
+
 -Records that are not encoded "o" in the Form.
 
 Result:
