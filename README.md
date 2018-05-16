@@ -12,5 +12,7 @@ The program also removes:
 Result:
 
 online serial | on1011201652 | 4 | Ultramicroscopy. | 0304-3991 (Print) | None | None | 1975 | 9999
+
 online serial | ocm39196475\ | 18 | Ultramicroscopy. | 1879-2723 | 0304-3991 | None | 1975 | 9999
+
 online serial | ocn776712731 | 0 | Ultramicroscopy | 1879-2723 | 0304-3991 | None | uuuu | uuuu
